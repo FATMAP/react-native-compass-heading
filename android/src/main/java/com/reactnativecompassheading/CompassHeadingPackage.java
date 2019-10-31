@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.reactnativecompassheading;
 
 import java.util.Arrays;
 import java.util.Collections;
